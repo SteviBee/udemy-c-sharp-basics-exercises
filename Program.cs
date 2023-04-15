@@ -6,6 +6,7 @@ using System.Numerics;
 using static System.Net.Mime.MediaTypeNames;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 
 //Format quick key -> Option + shift + F
 //Option + shift + arrow -> copy below
@@ -116,8 +117,72 @@ namespace Section_5_Exercises
 
             }
 
+            //1 - Write a program to count how many numbers between 1 and 100
+            //are divisible by 3 with no remainder.
+            //Display the count on the console.
+            static void CountDivideByThree()
+            {
+                //var randomNum = new Random();
+                //randomNum.Next(100);
+                // create a while loop to check and go
+
+                var visibleCounter = 0;
+                for (var i = 1; i < 100; i++)
+                {
+                    if (i % 3 == 0)
+                    {
+                        visibleCounter++;
+                    }
+
+                }
+                Console.WriteLine("There are {0} numbers divisible by 3 between 1 and 100.", visibleCounter);
+
+            }
+            //CountDivideByThree();
 
 
+            //2 - Write a program and continuously ask the user to enter a number
+            //or "ok" to exit.
+            //Calculate the sum of all the previously entered
+            //numbers and display it on the console.
+            static void AskForNumAndSum()
+            {
+                var sum = 0;
+                while (true)
+                {
+                    Console.WriteLine("Enter a number or type 'ok' to exit");
+                    var getInput = Console.ReadLine();
+                    if (getInput == "ok")
+                    {
+                        Console.WriteLine("Exiting... total sum = {0}", sum);
+                        break;
+                    }
+                    else
+                    {
+                        sum = sum + Convert.ToInt32(getInput);
+                    }
+
+                }
+            }
+            //AskForNumAndSum();
+            //3 - Write a program and ask the user to enter a number.
+            //Compute the factorial of the number and print it on the console.
+            //For example, if the user enters 5, the program
+            //should calculate 5 x 4 x 3 x 2 x 1 and display it as 5! = 120.
+            static void ComputeFactoral()
+            {
+                Console.Write("Enter a number: ");
+                var number = Convert.ToInt32(Console.ReadLine());
+
+                var factorial = 1;
+                for (var i = 1; i <= number; i++)
+                    factorial *= i;
+
+                Console.WriteLine("{0}! = {1}", number, factorial);
+            }
         }
 
     }
+
+
+}
