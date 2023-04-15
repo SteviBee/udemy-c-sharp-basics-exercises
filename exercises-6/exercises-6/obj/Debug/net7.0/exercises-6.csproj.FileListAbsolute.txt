@@ -1,0 +1,15 @@
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/bin/Debug/net7.0/exercises-6
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/bin/Debug/net7.0/exercises-6.deps.json
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/bin/Debug/net7.0/exercises-6.runtimeconfig.json
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/bin/Debug/net7.0/exercises-6.dll
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/bin/Debug/net7.0/exercises-6.pdb
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.csproj.AssemblyReference.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.AssemblyInfoInputs.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.AssemblyInfo.cs
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.csproj.CoreCompileInputs.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.dll
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/refint/exercises-6.dll
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.pdb
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/exercises-6.genruntimeconfig.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/exercises-6/exercises-6/obj/Debug/net7.0/ref/exercises-6.dll
