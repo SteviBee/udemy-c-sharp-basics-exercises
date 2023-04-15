@@ -1,0 +1,15 @@
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/bin/Debug/net7.0/Section-5-Exercises
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/bin/Debug/net7.0/Section-5-Exercises.deps.json
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/bin/Debug/net7.0/Section-5-Exercises.runtimeconfig.json
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/bin/Debug/net7.0/Section-5-Exercises.dll
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/bin/Debug/net7.0/Section-5-Exercises.pdb
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.csproj.AssemblyReference.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.AssemblyInfoInputs.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.AssemblyInfo.cs
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.csproj.CoreCompileInputs.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.dll
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/refint/Section-5-Exercises.dll
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.pdb
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/Section-5-Exercises.genruntimeconfig.cache
+/Users/stephenborutta/Documents/2023-backdocket-learning/c#/c#-basics/Section-5-Exercises/Section-5-Exercises/obj/Debug/net7.0/ref/Section-5-Exercises.dll
